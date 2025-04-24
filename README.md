@@ -1,8 +1,9 @@
 # Olá, desenvolvedores! Eu sou a Rane Silva.✨️
 
-💻 Sou apaixonada por tecnologia e inovação, e meu objetivo é usar o GitHub como um portfólio de desenvolvedora web Front-end.
+💻 Sou apaixonada por tecnologia e inovação, e meu objetivo é usar o GitHub como um portfólio de Dev Web Front-end.
 
-👩🏻‍💻 Estudo L.I. em Matemática e Computação é suas Tecnologias na UFSB, e sou formada em um Técnico de Informática.  
+👩🏻‍💻 Estudo L.I. em Matemática e Computação e suas Tecnologias na UFSB, e sou formada em um Técnico de Informática. 
+
 ---
 
 ## 🔧 Tecnologias e Ferramentas
