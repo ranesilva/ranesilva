@@ -1,11 +1,9 @@
-# Olá, desenvolvedores! 👋
+# Olá, desenvolvedores! Eu sou a Rane  👋
 
-Sou estudante de Matemática e Computação na Universidade Federal do Sul da Bahia, formada em um curso técnico de Informática e atualmente em formação como Educadora. Sou apaixonada por tecnologia e inovação, e meu objetivo é usar o GitHub como um portfólio de desenvolvedora web Front-end.
+Sou apaixonada por tecnologia e inovação, e meu objetivo é usar o GitHub como um portfólio de desenvolvedora web Front-end.
 
-💻 Estou aprimorando minhas habilidades em HTML, CSS, JavaScript, C e PHP por meio de projetos práticos. Sou proativa, comunicativa, adaptável e trabalho bem em equipe.
-
-🧠 Estou sempre em busca de aprender novas tecnologias e criar soluções inovadoras no mundo digital.
-
+💻 L.I. Matemática e Computação é suas Tecnologias
+👩🏻‍💻 Técnica em Informática 
 ---
 
 ## 🔧 Tecnologias e Ferramentas
