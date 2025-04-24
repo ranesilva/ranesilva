@@ -1,4 +1,4 @@
-# Olá, desenvolvedores, sou a Rane Silva.✨️
+# Olá desenvolvedores, sou a Rane Silva.✨️
 
 💻 Sou apaixonada por tecnologia e inovação, e meu objetivo é usar o GitHub como um portfólio de Dev Web Front-end.
 
